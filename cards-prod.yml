@@ -1,7 +1,7 @@
 
 
 cards:
-  message: "Cards Prod Service"
+  message: "Cards Bus Service"
   contactDetails:
     name: "Yossa"
     email: "0X2tG@example.com"
